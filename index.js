@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const port = process.env.PORT || 3001;
 
 const fs = require('fs');
 let scenariosData;
@@ -13,5 +14,5 @@ app.get("/", (req, res) => {
 	res.set('Content-Type', 'application/json')
     res.send(scenariosData);
 });
-
-app.listen(process.env.PORT);
+console.log(port)
+app.listen(port);
