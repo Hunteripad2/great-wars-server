@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-const port = 3001;
 
 const fs = require('fs');
 let scenariosData;
@@ -15,6 +14,4 @@ app.get("/", (req, res) => {
     res.send(scenariosData);
 });
 
-app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`);
-});
+app.listen(process.env.PORT);
