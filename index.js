@@ -11,7 +11,7 @@ fs.readFile("./src/scenariosData.json", (err, data) => {
 
 const localClient = "http://localhost:3000";
 const vercelClient = "https://great-wars-react.vercel.app";
-const clientUrl = process.env.dev ? localClient : vercelClient;
+const clientUrl = process.env.NODE_ENV === "production" ? vercelClient : localClient;
 
 app.get("/", (req, res) => {
     res.set("Access-Control-Allow-Origin", clientUrl);
