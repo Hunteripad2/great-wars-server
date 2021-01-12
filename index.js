@@ -13,8 +13,6 @@ const localClient = "http://localhost:3000";
 const vercelClient = "https://great-wars-react.vercel.app";
 const clientUrl = process.env.NODE_ENV === "production" ? vercelClient : localClient;
 
-console.log(clientUrl)
-
 app.get("/", (req, res) => {
     res.set("Access-Control-Allow-Origin", clientUrl);
     res.set("Content-Type", "application/json");
