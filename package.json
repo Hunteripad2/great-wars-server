@@ -11,13 +11,11 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+		"express": "^4.17.1",
+		"cross-env": "^7.0.3"
     },
     "prettier": {
         "tabWidth": 4,
         "printWidth": 300
-    },
-    "devDependencies": {
-        "cross-env": "^7.0.3"
     }
 }
