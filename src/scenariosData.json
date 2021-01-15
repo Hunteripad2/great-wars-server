@@ -50,6 +50,11 @@
                     "name": "Музыка 2",
                     "src": "example2",
                     "allowed": false
+                },
+                {
+                    "name": "Динозавр",
+                    "src": "t-rex-roar",
+                    "allowed": true
                 }
             ],
             "events": [
