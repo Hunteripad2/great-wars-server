@@ -6,6 +6,7 @@ const fs = require("fs");
 let scenariosData;
 let resourcesData;
 let countriesData;
+let startScreenData;
 fs.readFile("./src/scenariosData.json", (err, data) => {
     if (err) throw err;
     scenariosData = data;
@@ -17,6 +18,10 @@ fs.readFile("./src/resourcesData.json", (err, data) => {
 fs.readFile("./src/countriesData.json", (err, data) => {
     if (err) throw err;
     countriesData = data;
+});
+fs.readFile("./src/startScreenData.json", (err, data) => {
+    if (err) throw err;
+    startScreenData = data;
 });
 
 const localClient = "http://localhost:3000";
@@ -37,6 +42,11 @@ app.get("/countriesData", (req, res) => {
     res.set("Access-Control-Allow-Origin", clientUrl);
     res.set("Content-Type", "application/json");
     res.send(countriesData);
+});
+app.get("/startScreenData", (req, res) => {
+    res.set("Access-Control-Allow-Origin", clientUrl);
+    res.set("Content-Type", "application/json");
+    res.send(startScreenData);
 });
 
 app.listen(port);
