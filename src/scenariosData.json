@@ -3,7 +3,7 @@
         {
             "storyLine": ["Historical"],
             "date": "Январь 1910г.",
-            "map": "map",
+            "map": "map-1910-01-historical",
             "countries": "countryList1934",
             "startingMusic": [
                 {
@@ -21,7 +21,7 @@
         {
             "storyLine": ["Historical"],
             "date": "Январь 1922г.",
-            "map": "map",
+            "map": "map-1934-01-historical",
             "countries": "countryList1934",
             "startingMusic": [
                 {
