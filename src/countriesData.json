@@ -1,31 +1,94 @@
 {
+    "AUS_republic": {
+        "name": "Австрийская республика",
+        "backstory": "",
+        "flag": "AUS_republic",
+        "positionX": "625px",
+        "positionY": "575px"
+    },
+    "AUS_empire": {
+        "name": "Австро-Венгерская империя",
+        "backstory": "",
+        "flag": "AUS_empire",
+        "positionX": "625px",
+        "positionY": "575px"
+    },
+    "BEL": {
+        "name": "Королевство Бельгия",
+        "backstory": "",
+        "flag": "BEL",
+        "positionX": "460px",
+        "positionY": "505px"
+    },
+    "BUL_tsardom": {
+        "name": "Болгарское царство",
+        "backstory": "",
+        "flag": "BUL_tsardom",
+        "positionX": "780px",
+        "positionY": "670px"
+    },
+    "DEN": {
+        "name": "Королевство Дания",
+        "backstory": "",
+        "flag": "DEN",
+        "positionX": "580px",
+        "positionY": "400px"
+    },
     "FRA_republic": {
         "name": "Французская республика",
         "backstory": "",
         "flag": "FRA_republic",
         "positionX": "430px",
-        "positionY": "580px"
+        "positionY": "560px"
     },
     "GBR": {
         "name": "Соединённое королевство Великобритании и Северной Ирландии",
         "backstory": "Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание",
         "flag": "GBR",
-        "positionX": "345px",
-        "positionY": "450px"
+        "positionX": "365px",
+        "positionY": "470px"
     },
     "GER_empire": {
         "name": "Германское государство (империя)",
         "backstory": "",
         "flag": "GER_empire",
-        "positionX": "550px",
-        "positionY": "490px"
+        "positionX": "580px",
+        "positionY": "480px"
     },
     "GER_nazi": {
         "name": "Германское государство (Третий рейх)",
         "backstory": "Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание",
         "flag": "GER_empire",
-        "positionX": "550px",
-        "positionY": "490px"
+        "positionX": "580px",
+        "positionY": "480px"
+    },
+    "GRE_kingdom": {
+        "name": "Королевство Греция",
+        "backstory": "",
+        "flag": "GRE_kingdom",
+        "positionX": "770px",
+        "positionY": "760px"
+    },
+    "GRE_republic": {
+        "name": "Греческая республика",
+        "backstory": "",
+        "flag": "GRE_republic",
+        "positionX": "770px",
+        "positionY": "760px"
+    },
+    "HUN_kingdom": {
+        "name": "Королевство Венгрия",
+        "backstory": "",
+        "flag": "HUN_kingdom",
+        "positionX": "700px",
+        "positionY": "585px"
+    },
+    "ICE": {
+        "name": "Королевство Исландия",
+        "backstory": "",
+        "flag": "ICE",
+        "positionX": "40px",
+        "positionY": "140px"
     },
     "IRE_republic": {
         "name": "Ирландская республика",
@@ -34,12 +97,103 @@
         "positionX": "250px",
         "positionY": "440px"
     },
+    "ITA_kingdom": {
+        "name": "Королевство Италия",
+        "backstory": "",
+        "flag": "ITA_kingdom",
+        "positionX": "590px",
+        "positionY": "680px"
+    },
+    "LUX": {
+        "name": "Великое герцогство Люксембург",
+        "backstory": "",
+        "flag": "LUX",
+        "positionX": "485px",
+        "positionY": "530px"
+    },
+    "MNT": {
+        "name": "Королевство Черногория",
+        "backstory": "",
+        "flag": "MNT",
+        "positionX": "700px",
+        "positionY": "675px"
+    },
+    "NET": {
+        "name": "Королевство Нидерландов",
+        "backstory": "",
+        "flag": "NET",
+        "positionX": "470px",
+        "positionY": "470px"
+    },
+    "NOR": {
+        "name": "Королевство Норвегия",
+        "backstory": "",
+        "flag": "NOR",
+        "positionX": "550px",
+        "positionY": "300px"
+    },
+    "PER": {
+        "name": "Государство Иран",
+        "backstory": "",
+        "flag": "PER",
+        "positionX": "1250px",
+        "positionY": "840px"
+    },
+    "POL_republic": {
+        "name": "Польская республика",
+        "backstory": "",
+        "flag": "POL_republic",
+        "positionX": "740px",
+        "positionY": "480px"
+    },
     "POR_kingdom": {
         "name": "Королевство Португалия",
         "backstory": "",
         "flag": "POR_kingdom",
         "positionX": "250px",
         "positionY": "740px"
+    },
+    "POR_republic": {
+        "name": "Португальская республика",
+        "backstory": "",
+        "flag": "POR_republic",
+        "positionX": "250px",
+        "positionY": "740px"
+    },
+    "ROM_kingdom": {
+        "name": "Королевство Румыния",
+        "backstory": "",
+        "flag": "ROM_kingdom",
+        "positionX": "800px",
+        "positionY": "635px"
+    },
+    "RUS_empire": {
+        "name": "Российская империя",
+        "backstory": "",
+        "flag": "RUS_empire",
+        "positionX": "890px",
+        "positionY": "310px"
+    },
+    "RUS_republic": {
+        "name": "Российская республика",
+        "backstory": "",
+        "flag": "RUS_republic",
+        "positionX": "890px",
+        "positionY": "310px"
+    },
+    "SER": {
+        "name": "Королевство Сербия",
+        "backstory": "",
+        "flag": "SER",
+        "positionX": "730px",
+        "positionY": "650px"
+    },
+    "SOV": {
+        "name": "Союз советских социалистических республик",
+        "backstory": "",
+        "flag": "SOV",
+        "positionX": "1000px",
+        "positionY": "400px"
     },
     "SPA_kingdom": {
         "name": "Королевство Испания",
@@ -54,5 +208,33 @@
         "flag": "SPA_republic",
         "positionX": "325px",
         "positionY": "720px"
+    },
+    "SWE": {
+        "name": "Королевство Швеция",
+        "backstory": "",
+        "flag": "SWE",
+        "positionX": "670px",
+        "positionY": "300px"
+    },
+    "SWI": {
+        "name": "Швейцарская конфедерация",
+        "backstory": "",
+        "flag": "SWI",
+        "positionX": "520px",
+        "positionY": "590px"
+    },
+    "TUR_empire": {
+        "name": "Османская империя",
+        "backstory": "",
+        "flag": "TUR_empire",
+        "positionX": "850px",
+        "positionY": "700px"
+    },
+    "TUR_republic": {
+        "name": "Турецкая республика",
+        "backstory": "",
+        "flag": "TUR_republic",
+        "positionX": "900px",
+        "positionY": "740px"
     }
 }
