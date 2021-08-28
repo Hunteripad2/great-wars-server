@@ -7,8 +7,43 @@
             "countries": "countryList1910",
             "startingMusic": [
                 {
-                    "name": "Музыка 4",
-                    "src": "example1",
+                    "name": "1812 год",
+                    "src": "1812_overture",
+                    "allowed": true
+                },
+                {
+                    "name": "О, благодать",
+                    "src": "amazing_grace",
+                    "allowed": true
+                },
+                {
+                    "name": "Стража на Рейне",
+                    "src": "die_wacht_am_rhein",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, храни Короля",
+                    "src": "god_save_the_king",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, Царя храни!",
+                    "src": "god_save_the_tsar",
+                    "allowed": true
+                },
+                {
+                    "name": "Калинка",
+                    "src": "kalinka",
+                    "allowed": true
+                },
+                {
+                    "name": "Правь, Британия, морями!",
+                    "src": "rule_britannia",
+                    "allowed": true
+                },
+                {
+                    "name": "Патриотическая песня",
+                    "src": "patriotic_song",
                     "allowed": true
                 }
             ],
@@ -25,8 +60,48 @@
             "countries": "countryList1934",
             "startingMusic": [
                 {
-                    "name": "Музыка 2",
-                    "src": "example1",
+                    "name": "1812 год",
+                    "src": "1812_overture",
+                    "allowed": true
+                },
+                {
+                    "name": "О, благодать",
+                    "src": "amazing_grace",
+                    "allowed": true
+                },
+                {
+                    "name": "Стража на Рейне",
+                    "src": "die_wacht_am_rhein",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, храни Короля",
+                    "src": "god_save_the_king",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, Царя храни!",
+                    "src": "god_save_the_tsar",
+                    "allowed": true
+                },
+                {
+                    "name": "Калинка",
+                    "src": "kalinka",
+                    "allowed": true
+                },
+                {
+                    "name": "Правь, Британия, морями!",
+                    "src": "rule_britannia",
+                    "allowed": true
+                },
+                {
+                    "name": "Патриотическая песня",
+                    "src": "patriotic_song",
+                    "allowed": true
+                },
+                {
+                    "name": "Интернационал",
+                    "src": "internationale",
                     "allowed": true
                 }
             ],
@@ -42,18 +117,53 @@
             "countries": "countryList1934",
             "startingMusic": [
                 {
-                    "name": "Музыка 1",
-                    "src": "example1",
+                    "name": "1812 год",
+                    "src": "1812_overture",
                     "allowed": true
                 },
                 {
-                    "name": "Музыка 2",
-                    "src": "example2",
-                    "allowed": false
+                    "name": "О, благодать",
+                    "src": "amazing_grace",
+                    "allowed": true
                 },
                 {
-                    "name": "Динозавр",
-                    "src": "t-rex-roar",
+                    "name": "Стража на Рейне",
+                    "src": "die_wacht_am_rhein",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, храни Короля",
+                    "src": "god_save_the_king",
+                    "allowed": true
+                },
+                {
+                    "name": "Боже, Царя храни!",
+                    "src": "god_save_the_tsar",
+                    "allowed": true
+                },
+                {
+                    "name": "Калинка",
+                    "src": "kalinka",
+                    "allowed": true
+                },
+                {
+                    "name": "Правь, Британия, морями!",
+                    "src": "rule_britannia",
+                    "allowed": true
+                },
+                {
+                    "name": "Патриотическая песня",
+                    "src": "patriotic_song",
+                    "allowed": true
+                },
+                {
+                    "name": "Интернационал",
+                    "src": "internationale",
+                    "allowed": true
+                },
+                {
+                    "name": "Катюша",
+                    "src": "katusha",
                     "allowed": true
                 }
             ],
