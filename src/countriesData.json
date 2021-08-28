@@ -3,6 +3,8 @@
         "name": "Австрийская республика",
         "backstory": "",
         "flag": "AUS_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "625px",
         "positionY": "575px"
     },
@@ -10,6 +12,8 @@
         "name": "Австро-Венгерская империя",
         "backstory": "",
         "flag": "AUS_empire",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "625px",
         "positionY": "575px"
     },
@@ -17,6 +21,8 @@
         "name": "Королевство Бельгия",
         "backstory": "",
         "flag": "BEL",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "460px",
         "positionY": "505px"
     },
@@ -24,6 +30,8 @@
         "name": "Болгарское царство",
         "backstory": "",
         "flag": "BUL_tsardom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "780px",
         "positionY": "670px"
     },
@@ -31,6 +39,8 @@
         "name": "Королевство Дания",
         "backstory": "",
         "flag": "DEN",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "580px",
         "positionY": "400px"
     },
@@ -38,6 +48,8 @@
         "name": "Французская республика",
         "backstory": "",
         "flag": "FRA_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "430px",
         "positionY": "560px"
     },
@@ -45,6 +57,8 @@
         "name": "Соединённое королевство Великобритании и Северной Ирландии",
         "backstory": "Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание",
         "flag": "GBR",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "365px",
         "positionY": "470px"
     },
@@ -52,13 +66,17 @@
         "name": "Германское государство (империя)",
         "backstory": "",
         "flag": "GER_empire",
+        "leaderName": "Вильгельм II",
+        "leaderSrc": "Wilhelm_II",
         "positionX": "580px",
         "positionY": "480px"
     },
     "GER_nazi": {
         "name": "Германское государство (Третий рейх)",
         "backstory": "Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание",
-        "flag": "GER_empire",
+        "flag": "GER_nazi",
+        "leaderName": "Адольф Гитлер",
+        "leaderSrc": "Adolf_Hitler",
         "positionX": "580px",
         "positionY": "480px"
     },
@@ -66,6 +84,8 @@
         "name": "Королевство Греция",
         "backstory": "",
         "flag": "GRE_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "770px",
         "positionY": "760px"
     },
@@ -73,6 +93,8 @@
         "name": "Греческая республика",
         "backstory": "",
         "flag": "GRE_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "770px",
         "positionY": "760px"
     },
@@ -80,6 +102,8 @@
         "name": "Королевство Венгрия",
         "backstory": "",
         "flag": "HUN_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "700px",
         "positionY": "585px"
     },
@@ -87,6 +111,8 @@
         "name": "Королевство Исландия",
         "backstory": "",
         "flag": "ICE",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "40px",
         "positionY": "140px"
     },
@@ -94,6 +120,8 @@
         "name": "Ирландская республика",
         "backstory": "",
         "flag": "IRE",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "250px",
         "positionY": "440px"
     },
@@ -101,6 +129,8 @@
         "name": "Королевство Италия",
         "backstory": "",
         "flag": "ITA_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "590px",
         "positionY": "680px"
     },
@@ -108,6 +138,8 @@
         "name": "Великое герцогство Люксембург",
         "backstory": "",
         "flag": "LUX",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "485px",
         "positionY": "530px"
     },
@@ -115,6 +147,8 @@
         "name": "Королевство Черногория",
         "backstory": "",
         "flag": "MNT",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "700px",
         "positionY": "675px"
     },
@@ -122,6 +156,8 @@
         "name": "Королевство Нидерландов",
         "backstory": "",
         "flag": "NET",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "470px",
         "positionY": "470px"
     },
@@ -129,6 +165,8 @@
         "name": "Королевство Норвегия",
         "backstory": "",
         "flag": "NOR",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "550px",
         "positionY": "300px"
     },
@@ -136,6 +174,8 @@
         "name": "Государство Иран",
         "backstory": "",
         "flag": "PER",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "1250px",
         "positionY": "840px"
     },
@@ -143,6 +183,8 @@
         "name": "Польская республика",
         "backstory": "",
         "flag": "POL_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "740px",
         "positionY": "480px"
     },
@@ -150,6 +192,8 @@
         "name": "Королевство Португалия",
         "backstory": "",
         "flag": "POR_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "250px",
         "positionY": "740px"
     },
@@ -157,6 +201,8 @@
         "name": "Португальская республика",
         "backstory": "",
         "flag": "POR_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "250px",
         "positionY": "740px"
     },
@@ -164,6 +210,8 @@
         "name": "Королевство Румыния",
         "backstory": "",
         "flag": "ROM_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "800px",
         "positionY": "635px"
     },
@@ -171,6 +219,8 @@
         "name": "Российская империя",
         "backstory": "",
         "flag": "RUS_empire",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "890px",
         "positionY": "310px"
     },
@@ -178,6 +228,8 @@
         "name": "Российская республика",
         "backstory": "",
         "flag": "RUS_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "890px",
         "positionY": "310px"
     },
@@ -185,6 +237,8 @@
         "name": "Королевство Сербия",
         "backstory": "",
         "flag": "SER",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "730px",
         "positionY": "650px"
     },
@@ -192,6 +246,8 @@
         "name": "Союз советских социалистических республик",
         "backstory": "",
         "flag": "SOV",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "1000px",
         "positionY": "400px"
     },
@@ -199,6 +255,8 @@
         "name": "Королевство Испания",
         "backstory": "",
         "flag": "SPA_kingdom",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "325px",
         "positionY": "720px"
     },
@@ -206,6 +264,8 @@
         "name": "Испанская республика",
         "backstory": "",
         "flag": "SPA_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "325px",
         "positionY": "720px"
     },
@@ -213,6 +273,8 @@
         "name": "Королевство Швеция",
         "backstory": "",
         "flag": "SWE",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "670px",
         "positionY": "300px"
     },
@@ -220,6 +282,8 @@
         "name": "Швейцарская конфедерация",
         "backstory": "",
         "flag": "SWI",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "520px",
         "positionY": "590px"
     },
@@ -227,6 +291,8 @@
         "name": "Османская империя",
         "backstory": "",
         "flag": "TUR_empire",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "850px",
         "positionY": "700px"
     },
@@ -234,6 +300,8 @@
         "name": "Турецкая республика",
         "backstory": "",
         "flag": "TUR_republic",
+        "leaderName": "WIP",
+        "leaderSrc": "WIP",
         "positionX": "900px",
         "positionY": "740px"
     }
